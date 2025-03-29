@@ -1,0 +1,61 @@
+.search-container {
+    margin-bottom: 24px;
+  }
+  
+  .search-icon {
+    margin-right: 8px;
+    color: #757575;
+  }
+  
+  .loading-container {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+  }
+  
+  .user-grid {
+    margin-bottom: 24px;
+  }
+  
+  .user-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .user-card-content {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+  }
+  
+  .user-avatar {
+    width: 60px;
+    height: 60px;
+    margin-right: 16px;
+  }
+  
+  .user-info {
+    flex: 1;
+  }
+  
+  .user-card-actions {
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 16px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #eee;
+  }
+  
+  .pagination-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 24px;
+    padding: 16px 0;
+  }
+  
+  .no-users-message {
+    padding: 24px;
+    color: #757575;
+  }
+  

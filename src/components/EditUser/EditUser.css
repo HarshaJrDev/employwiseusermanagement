@@ -1,0 +1,36 @@
+.loading-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+  }
+  
+  .edit-paper {
+    padding: 24px;
+  }
+  
+  .user-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+  
+  .edit-avatar {
+    width: 64px;
+    height: 64px;
+    margin-right: 16px;
+  }
+  
+  .edit-divider {
+    margin-bottom: 24px;
+  }
+  
+  .edit-form {
+    padding: 0 8px;
+  }
+  
+  .form-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 32px;
+  }
